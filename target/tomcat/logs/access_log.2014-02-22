@@ -1,0 +1,2 @@
+127.0.0.1 - - [22/Feb/2014:00:58:52 +0000] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-8080-exec-1 441
+127.0.0.1 - - [22/Feb/2014:00:58:52 +0000] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 28 http-bio-8080-exec-3 10
